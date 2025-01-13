@@ -1,0 +1,33 @@
+
+
+.quora-heading{
+    color: rgb(75, 7, 7);
+}
+
+.post{
+    border: 1px solid #cecaca;
+    background-color: blanchedalmond;
+    padding: 0 0 1.5rem 1.5rem;
+}
+
+.username{
+    font-style: italic;
+}
+
+.changes-div{
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1rem;
+}
+.createBtn{
+    display: block;
+    width: fit-content;
+    margin-bottom: 1rem;
+}
+a{  
+    background-color: lightblue;
+    text-decoration: none;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    color: rgb(96, 8, 179);
+}
